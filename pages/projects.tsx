@@ -36,65 +36,9 @@ function ProjectsContent() {
       >
         <div className={styles.projectsHolder}>
           <ProjectItem
-            name="axolotl"
-            link="https://github.com/axolotl-lang/axolotl"
-            description="a statically-typed lisp-like programming language"
-            language="Haskell"
-            languageColor="#5e5086"
-          />
-
-          <ProjectItem
-            name="previewer"
-            link="https://github.com/batbin-org/previewer"
-            description="a blazing-fast preview image generator for batbin.me"
-            language="Rust"
-            languageColor="#dea584"
-          />
-
-          <ProjectItem
-            name="able"
-            link="https://github.com/uditkarode/AbleMusicPlayer"
-            description="a music player for local music or streaming from YouTube"
-            language="Kotlin"
-            languageColor="#a97bff"
-          />
-
-          <ProjectItem
-            name="drytype"
-            link="https://github.com/uditkarode/drytype"
-            description="a runtime type-validation library with TypeScript in mind"
-            language="TypeScript"
-            languageColor="#2b7489"
-          />
-
-          <ProjectItem
-            name="montype"
-            link="https://github.com/uditkarode/montype"
-            description="generate typescript interfaces from mongoose schemas"
-            language="Haskell"
-            languageColor="#5e5086"
-          />
-
-          <ProjectItem
-            name="minegram"
-            link="https://github.com/uditkarode/minegram"
-            description="connect your minecraft and telegram chats with additional utilities"
-            language="Go"
-            languageColor="#00add8"
-          />
-
-          <ProjectItem
-            name="ucc"
-            link="https://github.com/uditkarode/ucc"
-            description="intuitive bash-based wrapper for the borland tcc compiler"
-            language="Shell"
-            languageColor="#89e051"
-          />
-
-          <ProjectItem
             name="hyougen"
-            link="https://github.com/uditkarode/deno-hyougen"
-            description="a wrapper for koa/oak that makes common tasks simpler"
+            link="https://github.com/Hyperizer69/CAF"
+            description="a caf based kernel for RMX1851"
             language="TypeScript"
             languageColor="#2b7489"
           />
@@ -109,7 +53,7 @@ function ProjectsContent() {
         transition={{ delay: 0.2 }}
       >
         There&lsquo;s more on my{" "}
-        <Link href="https://github.com/uditkarode" passHref>
+        <Link href="https://github.com/Hyperizer69" passHref>
           <a>
             <OT>github</OT>
           </a>

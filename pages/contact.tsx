@@ -26,20 +26,11 @@ function ContactContent() {
       transition={{ delay: 0.2 }}
     >
       The fastest way to reach me is through{" "}
-      <Link href="https://t.me/uditkarode/">
+      <Link href="https://t.me/ChromeBuster/">
         <a>
           <OT>Telegram</OT>
         </a>
       </Link>
-      .
-      <br /> <br />
-      An{"  "}
-      <Link href="mailto:me@udit.krd">
-        <a>
-          <OT>email</OT>
-        </a>
-      </Link>{" "}
-      works as well.
     </motion.p>
   );
 }

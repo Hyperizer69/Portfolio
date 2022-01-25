@@ -66,7 +66,7 @@ export default function Home() {
               className={styles.nameText}
               layoutId="name"
             >
-              Udit Karode
+              Hyper
             </motion.p>
 
             {/* Button */}
